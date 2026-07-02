@@ -1,7 +1,8 @@
 Hi you can call me Misha and I am currently enrolled at De La Salle Learning Computer Science as a first year.
 I like developing application and programs for thinsg that I have interest with in my pass time.
 
-you can contact me through email or <a href="https://discord.com/users/870268908056248330"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="25"></a>
+you can contact me through email or through these alternative
+<a href="https://discord.com/users/870268908056248330"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="25"></a>
 
 870268908056248330
 
