@@ -1,5 +1,5 @@
 **Hi you can call me Misha and I am currently enrolled at De La Salle Learning Computer Science as a first year.
-I like developing application and programs for thinsg that I have interest with in my pass time.**
+I like developing application and programs for things that I have interest with in my pass time.**
 
 you can contact me through email or through these alternative
 
@@ -11,7 +11,17 @@ you can contact me through email or through these alternative
 
 ## Tech Stack & Tools
 
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="28"> <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" height="28"> <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="28"> <img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" height="28">
+### 🛠️ Tech Stack & Tools
+
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" height="28">
+<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="28">
+
+<br>
+
+<img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" height="28">
 
 <!--
 **gregorio-anton/gregorio-anton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
