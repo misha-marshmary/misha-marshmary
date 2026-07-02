@@ -1,6 +1,6 @@
-## Hi, you can call me Misha.
+# Hi, you can call me Misha.
 
-# you can contact me through email or discord.
+## you can contact me through email or discord.
 
 <!--
 **gregorio-anton/gregorio-anton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
