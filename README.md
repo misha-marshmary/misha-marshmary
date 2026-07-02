@@ -5,7 +5,14 @@ you can contact me through email or through these alternative
 
 <a href="https://discord.com/users/870268908056248330"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="25"></a>
 
-## introduction and background
+## Tech Stack and Tools
+
+<nobr>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" height="28">
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" height="28">
+</nobr>
 
 <!--
 **gregorio-anton/gregorio-anton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
