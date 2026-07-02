@@ -3,7 +3,11 @@ I like developing application and programs for thinsg that I have interest with 
 
 you can contact me through email or through these alternative
 
-<a href="https://discord.com/users/870268908056248330"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="25"></a> <a href= "https://www.linkedin.com/in/anton-gregorio-75a7ab245/?isSelfProfile=true"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="28"></a>
+<a href="https://discord.com/users/870268908056248330" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="25"></a>
+
+<a href= "https://www.linkedin.com/in/anton-gregorio-75a7ab245/?isSelfProfile=true" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="25"></a>
 
 ## Tech Stack & Tools
 
