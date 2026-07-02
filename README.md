@@ -1,5 +1,5 @@
-Hi you can call me Misha and I am currently enrolled at De La Salle Learning Computer Science as a first year.
-I like developing application and programs for thinsg that I have interest with in my pass time.
+**Hi you can call me Misha and I am currently enrolled at De La Salle Learning Computer Science as a first year.
+I like developing application and programs for thinsg that I have interest with in my pass time.**
 
 you can contact me through email or through these alternative
 
